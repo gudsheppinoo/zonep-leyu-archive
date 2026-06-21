@@ -1,2 +1,14 @@
 # zonep-leyu-archive
-HTML page archive and documentation
+
+独立页面发布说明
+
+发布任务会在此仓库中维护页面文件，方便后续访问。
+
+## 文件组成
+
+- `.html` 文件为独立页面
+- `README.md` 为仓库基础说明
+
+## 提交说明
+
+页面文件由程序提交，提交历史可作为变更记录参考。
